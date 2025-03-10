@@ -29,58 +29,58 @@
           <mxGeometry x="270" y="754" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-9" value="是否非标商品?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="289" y="853" width="151" height="151" as="geometry" />
+          <mxGeometry x="1019" y="180" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-10" value="展开属性修改面板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="153" y="1076" width="188" height="48" as="geometry" />
+          <mxGeometry x="883" y="403" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-11" value="修改物料属性/上传LOGO" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="129" y="1174" width="237" height="48" as="geometry" />
+          <mxGeometry x="859" y="501" width="237" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-12" value="必填附件已上传?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="164" y="1272" width="166" height="166" as="geometry" />
+          <mxGeometry x="894" y="599" width="166" height="166" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-13" value="请上传非标定制附件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1511" width="204" height="48" as="geometry" />
+          <mxGeometry x="750" y="838" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-14" value="更新物料代码/单价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="274" y="1511" width="196" height="48" as="geometry" />
+          <mxGeometry x="1004" y="838" width="196" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-15" value="直接加入购物车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1511" width="172" height="48" as="geometry" />
+          <mxGeometry x="1250" y="838" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-16" value="填写发票信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="411" y="1609" width="157" height="48" as="geometry" />
+          <mxGeometry x="1141" y="936" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-17" value="发票类型校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="417" y="1707" width="145" height="145" as="geometry" />
+          <mxGeometry x="1147" y="1034" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-18" value="显示专票/普票/不开票" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="253" y="1924" width="221" height="48" as="geometry" />
+          <mxGeometry x="983" y="1251" width="221" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-19" value="显示普票+1%提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="524" y="1924" width="182" height="48" as="geometry" />
+          <mxGeometry x="1254" y="1251" width="182" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-20" value="合同生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="427" y="2023" width="125" height="48" as="geometry" />
+          <mxGeometry x="1157" y="1350" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-21" value="切换销售主体?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="414" y="2121" width="150" height="150" as="geometry" />
+          <mxGeometry x="1144" y="1448" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-22" value="直接切换清空发票" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="284" y="2344" width="188" height="48" as="geometry" />
+          <mxGeometry x="1014" y="1671" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-23" value="提示清空确认" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="522" y="2344" width="156" height="48" as="geometry" />
+          <mxGeometry x="1252" y="1671" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-24" value="生成草稿/新建合同" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="502" y="2464" width="196" height="48" as="geometry" />
+          <mxGeometry x="1232" y="1791" width="196" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-25" value="导出对应合同模板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="506" y="2562" width="188" height="48" as="geometry" />
+          <mxGeometry x="1236" y="1889" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-26" value="结束流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="538" y="2661" width="124" height="48" as="geometry" />
+          <mxGeometry x="1268" y="1988" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-1" target="IYOmGBPwVPDrk-0VwCeP-2">
           <mxGeometry relative="1" as="geometry">
@@ -142,7 +142,7 @@
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-36" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-9" target="IYOmGBPwVPDrk-0VwCeP-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="247" y="1040" />
+              <mxPoint x="977" y="367" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -159,35 +159,35 @@
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-39" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-12" target="IYOmGBPwVPDrk-0VwCeP-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="122" y="1475" />
+              <mxPoint x="852" y="802" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-40" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-12" target="IYOmGBPwVPDrk-0VwCeP-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="372" y="1475" />
+              <mxPoint x="1102" y="802" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-41" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-9" target="IYOmGBPwVPDrk-0VwCeP-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="606" y="1040" />
+              <mxPoint x="1336" y="367" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-14" target="IYOmGBPwVPDrk-0VwCeP-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="372" y="1584" />
+              <mxPoint x="1102" y="911" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.87;entryY=0;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-15" target="IYOmGBPwVPDrk-0VwCeP-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="606" y="1584" />
+              <mxPoint x="1336" y="911" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -199,28 +199,28 @@
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-45" value="坚朗建材" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-17" target="IYOmGBPwVPDrk-0VwCeP-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="364" y="1888" />
+              <mxPoint x="1094" y="1215" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-46" value="东莞坚逸" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-17" target="IYOmGBPwVPDrk-0VwCeP-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="615" y="1888" />
+              <mxPoint x="1345" y="1215" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0;entryY=0;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-18" target="IYOmGBPwVPDrk-0VwCeP-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="364" y="1998" />
+              <mxPoint x="1094" y="1325" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.99;entryY=0;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-19" target="IYOmGBPwVPDrk-0VwCeP-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="615" y="1998" />
+              <mxPoint x="1345" y="1325" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -232,14 +232,14 @@
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-50" value="未选商品" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-21" target="IYOmGBPwVPDrk-0VwCeP-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="378" y="2307" />
+              <mxPoint x="1108" y="1634" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-51" value="已选商品" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-21" target="IYOmGBPwVPDrk-0VwCeP-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="2307" />
+              <mxPoint x="1330" y="1634" />
             </Array>
           </mxGeometry>
         </mxCell>
