@@ -19,9 +19,6 @@
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-5" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeColor=none;strokeWidth=1;fillColor=#dddddd;fontFamily=Verdana;fontSize=25;align=center;rotation=-35;" parent="1" vertex="1">
           <mxGeometry x="-548" y="-406" width="556" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-6" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeColor=none;strokeWidth=1;fillColor=#dddddd;fontFamily=Verdana;fontSize=25;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="-560" width="1260" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-7" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeColor=none;strokeWidth=1;fillColor=#dddddd;fontFamily=Verdana;fontSize=25;align=center;rotation=35;" parent="1" vertex="1">
           <mxGeometry x="1269" y="-236" width="438" height="60" as="geometry" />
         </mxCell>
@@ -1262,7 +1259,7 @@
           <mxGeometry x="405" y="-127" width="40" height="43" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-420" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="18" y="-552.0000000000001" width="1095" height="43.000000000000114" as="geometry" />
+          <mxGeometry x="160" y="-460.0000000000001" width="1095" height="43.000000000000114" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-421" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.office_chair;rounded=0;shadow=0;comic=0;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;" parent="_W7iC1SvL5sh-CcDsh3l-420" vertex="1">
           <mxGeometry x="1055" width="40" height="43" as="geometry" />
@@ -1347,6 +1344,9 @@
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-448" value="L" style="text;html=1;align=center;verticalAlign=middle;spacingTop=-4;fontSize=25;fontFamily=Verdana;fontStyle=1" parent="_W7iC1SvL5sh-CcDsh3l-420" vertex="1">
           <mxGeometry x="534" y="12.000000000000114" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_W7iC1SvL5sh-CcDsh3l-6" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeColor=none;strokeWidth=1;fillColor=#dddddd;fontFamily=Verdana;fontSize=25;align=center;" parent="_W7iC1SvL5sh-CcDsh3l-420" vertex="1">
+          <mxGeometry x="-210" y="-39.999999999999886" width="1260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-449" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.office_chair;rounded=0;shadow=0;comic=0;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-17" y="-615.0000000000001" width="40" height="43" as="geometry" />
@@ -1655,7 +1655,7 @@
           <mxGeometry x="405" y="128" width="40" height="43" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-551" value="BALCONY" style="line;strokeWidth=1;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;shadow=0;comic=0;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=28;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="-459" width="1280" height="10" as="geometry" />
+          <mxGeometry x="-87" y="-536" width="1280" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-552" value="" style="line;strokeWidth=1;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;shadow=0;comic=0;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;align=center;rotation=-35;" parent="1" vertex="1">
           <mxGeometry x="-618" y="-286" width="603" height="10" as="geometry" />
