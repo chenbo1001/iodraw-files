@@ -26,7 +26,7 @@
           <mxGeometry x="32" y="754" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-8" value="进入商品搜索页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="754" width="188" height="48" as="geometry" />
+          <mxGeometry x="270" y="754" width="230" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-9" value="是否非标商品?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="929" y="10" width="151" height="151" as="geometry" />
