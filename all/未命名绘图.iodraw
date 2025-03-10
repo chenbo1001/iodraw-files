@@ -62,9 +62,6 @@
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1450" y="70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1450" y="60" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-16" value="填写发票信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -184,10 +181,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-41" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-9" target="IYOmGBPwVPDrk-0VwCeP-15">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0648" y="-16" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1246" y="197" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-14" target="IYOmGBPwVPDrk-0VwCeP-16">
