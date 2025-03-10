@@ -28,6 +28,9 @@
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="778" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-8" value="进入商品搜索页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
