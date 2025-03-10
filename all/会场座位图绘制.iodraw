@@ -1262,7 +1262,7 @@
           <mxGeometry x="405" y="-127" width="40" height="43" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-420" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="18" y="-552.0000000000001" width="1095" height="43.000000000000114" as="geometry" />
+          <mxGeometry x="43" y="-475.5000000000001" width="1095" height="43.000000000000114" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-421" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.office_chair;rounded=0;shadow=0;comic=0;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;" parent="_W7iC1SvL5sh-CcDsh3l-420" vertex="1">
           <mxGeometry x="1055" width="40" height="43" as="geometry" />
@@ -1579,7 +1579,7 @@
           <mxGeometry x="299.00000000000045" y="251" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-524" value="" style="group;rotation=35;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1212" y="-446" width="485" height="114" as="geometry" />
+          <mxGeometry x="1257" y="-450" width="485" height="114" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-525" value="" style="group;rotation=35;" parent="_W7iC1SvL5sh-CcDsh3l-524" vertex="1" connectable="0">
           <mxGeometry x="-20" y="64" width="485" height="44" as="geometry" />
@@ -1900,7 +1900,7 @@
           <mxGeometry x="-80" y="-336" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-631" value="L13" style="text;html=1;align=center;verticalAlign=middle;spacingTop=-4;fontSize=20;fontFamily=Verdana;fontStyle=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="-21" y="-541" width="30" height="20" as="geometry" />
+          <mxGeometry x="7.5" y="-467" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-632" value="M13" style="text;html=1;align=center;verticalAlign=middle;spacingTop=-4;fontSize=20;fontFamily=Verdana;fontStyle=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-57" y="-602" width="30" height="20" as="geometry" />
