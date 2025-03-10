@@ -25,11 +25,13 @@
         <mxCell id="IYOmGBPwVPDrk-0VwCeP-7" value="请先选择销售主体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="32" y="754" width="189" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="IYOmGBPwVPDrk-0VwCeP-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-8">
+        <mxCell id="IYOmGBPwVPDrk-0VwCeP-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.135;entryY=0.339;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IYOmGBPwVPDrk-0VwCeP-8" target="IYOmGBPwVPDrk-0VwCeP-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="60" as="targetPoint" />
             <Array as="points">
               <mxPoint x="560" y="778" />
+              <mxPoint x="560" y="80" />
+              <mxPoint x="949" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
