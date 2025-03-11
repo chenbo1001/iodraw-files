@@ -1,110 +1,110 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="hEI9bqIzBOup3Xezo_PM">
-    <mxGraphModel dx="1364" dy="2484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1689" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YJ31V06DRZt222PkDAyD-1" value="快速下单功能清单" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="217" width="148" height="148" as="geometry" />
+          <mxGeometry x="880" y="397" width="148" height="148" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-2" value="2.1 销售主体" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="279" y="292" width="112" height="37" as="geometry" />
+          <mxGeometry x="689" y="472" width="112" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-3" value="必填项，新增“东莞坚逸”" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="185" y="373" width="197" height="37" as="geometry" />
+          <mxGeometry x="595" y="553" width="197" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-4" value="切换销售主体逻辑" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="66" y="324" width="148" height="37" as="geometry" />
+          <mxGeometry x="476" y="504" width="148" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-5" value="- 未选商品时切换: 清空发票类型" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="376" width="20" height="19" as="geometry" />
+          <mxGeometry x="430" y="556" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-6" value="- 已选商品时切换: 提示清空列表，生成新合同，旧合同存草稿" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="288" width="20" height="19" as="geometry" />
+          <mxGeometry x="435" y="468" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-7" value="合同号规则与现有一致" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="63" y="240" width="181" height="37" as="geometry" />
+          <mxGeometry x="473" y="420" width="181" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-8" value="2.2 搜索添加商品" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="513" y="179" width="143" height="37" as="geometry" />
+          <mxGeometry x="923" y="359" width="143" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-9" value="前置条件" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="432" y="113" width="84" height="37" as="geometry" />
+          <mxGeometry x="842" y="293" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-10" value="- 未选销售主体: 提示“请先选择”" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="396" y="58" width="20" height="19" as="geometry" />
+          <mxGeometry x="806" y="238" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-11" value="销售主体关联" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="557" y="86" width="116" height="37" as="geometry" />
+          <mxGeometry x="967" y="266" width="116" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-12" value="- 坚朗建材: 展示标准价目表" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="646" y="20" width="20" height="19" as="geometry" />
+          <mxGeometry x="1056" y="200" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-13" value="- 坚逸: 展示小规模价目表" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="28" width="20" height="19" as="geometry" />
+          <mxGeometry x="950" y="208" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-14" value="2.3 发票类型" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="683" y="224" width="111" height="37" as="geometry" />
+          <mxGeometry x="1093" y="404" width="111" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-15" value="坚朗建材选项" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="842" y="167" width="116" height="37" as="geometry" />
+          <mxGeometry x="1252" y="347" width="116" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-16" value="- 不开票/数电普票/数电专票" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="908" y="96" width="20" height="19" as="geometry" />
+          <mxGeometry x="1318" y="276" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-17" value="坚逸选项" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="719" y="133" width="84" height="37" as="geometry" />
+          <mxGeometry x="1129" y="313" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-18" value="- 不开票/数电普票（选普票提示“开具1%”）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="775" y="63" width="20" height="19" as="geometry" />
+          <mxGeometry x="1185" y="243" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-19" value="选择前提" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="852" y="257" width="84" height="37" as="geometry" />
+          <mxGeometry x="1262" y="437" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-20" value="- 需填写客户名称、销售主体、商机名称" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="990" y="261" width="20" height="19" as="geometry" />
+          <mxGeometry x="1400" y="441" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-21" value="2.4 合同模板" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="674" y="309" width="111" height="37" as="geometry" />
+          <mxGeometry x="1084" y="489" width="111" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-22" value="坚逸订单导出坚逸模板" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="818" y="358" width="180" height="37" as="geometry" />
+          <mxGeometry x="1228" y="538" width="180" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-23" value="2.5 商品属性修改" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="482" y="377" width="143" height="37" as="geometry" />
+          <mxGeometry x="892" y="557" width="143" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-24" value="规格属性" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="683" y="389" width="84" height="37" as="geometry" />
+          <mxGeometry x="1093" y="569" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-25" value="- 多规格商品可修改" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="812" y="445" width="20" height="19" as="geometry" />
+          <mxGeometry x="1222" y="625" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-26" value="非标定制属性" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="329" y="430" width="116" height="37" as="geometry" />
+          <mxGeometry x="739" y="610" width="116" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-27" value="- 修改后同步更新物料代码/单价/数量等" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="293" y="497" width="20" height="19" as="geometry" />
+          <mxGeometry x="703" y="677" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-28" value="- 折扣展示1折" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="386" y="522" width="20" height="19" as="geometry" />
+          <mxGeometry x="796" y="702" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-29" value="上传LOGO" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="476" y="466" width="93" height="37" as="geometry" />
+          <mxGeometry x="886" y="646" width="93" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-30" value="- 必传附件，否则报错" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="507" y="558" width="20" height="19" as="geometry" />
+          <mxGeometry x="917" y="738" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-31" value="安全帽模具费" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="596" y="449" width="116" height="37" as="geometry" />
+          <mxGeometry x="1006" y="629" width="116" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-32" value="- 数量与属性关联，可调增不可调减" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="721" y="519" width="20" height="19" as="geometry" />
+          <mxGeometry x="1131" y="699" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-33" value="- 不参与折扣，计入合计" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="633" y="540" width="20" height="19" as="geometry" />
+          <mxGeometry x="1043" y="720" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-34" value="classDef func fill:#e1f3ff,stroke:#4b9cd3,stroke-width:2px" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="178" width="219" height="72" as="geometry" />
+          <mxGeometry x="680" y="358" width="219" height="72" as="geometry" />
         </mxCell>
         <mxCell id="YJ31V06DRZt222PkDAyD-35" style="endArrow=none;rounded=0;" edge="1" parent="1" source="YJ31V06DRZt222PkDAyD-1" target="YJ31V06DRZt222PkDAyD-2">
           <mxGeometry relative="1" as="geometry" />
