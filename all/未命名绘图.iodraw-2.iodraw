@@ -1,0 +1,109 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="XybcEmHDZYbypK7zCP5y">
+    <mxGraphModel dx="955" dy="2219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-2" value="快速下单功能清单" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-110" width="350" height="858" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-3" value="    2.1 销售主体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="26" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-4" value="        必填项，新增“东莞坚逸”" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="52" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-5" value="        切换销售主体逻辑" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="78" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-6" value="            未选商品时切换: 清空发票类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="104" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-7" value="            已选商品时切换: 提示清空列表，生成新合同，旧合同存草稿" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="130" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-8" value="        合同号规则与现有一致" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="156" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-9" value="    2.2 搜索添加商品" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="182" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-10" value="        前置条件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="208" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-11" value="            未选销售主体: 提示“请先选择”" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="234" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-12" value="        销售主体关联" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="260" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-13" value="            坚朗建材: 展示标准价目表" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="286" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-14" value="            坚逸: 展示小规模价目表" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="312" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-15" value="    2.3 发票类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="338" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-16" value="        坚朗建材选项" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="364" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-17" value="            不开票/数电普票/数电专票" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="390" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-18" value="        坚逸选项" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="416" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-19" value="            不开票/数电普票（选普票提示“开具1%”）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="442" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-20" value="        选择前提" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="468" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-21" value="            需填写客户名称、销售主体、商机名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="494" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-22" value="    2.4 合同模板" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="520" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-23" value="        坚逸订单导出坚逸模板" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="546" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-24" value="    2.5 商品属性修改" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="572" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-25" value="        规格属性" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="598" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-26" value="            多规格商品可修改" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="624" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-27" value="        非标定制属性" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="650" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-28" value="            修改后同步更新物料代码/单价/数量等" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="676" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-29" value="            折扣展示1折" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="702" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-30" value="        上传LOGO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="728" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-31" value="            必传附件，否则报错" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="754" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-32" value="        安全帽模具费" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="780" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-33" value="            数量与属性关联，可调增不可调减" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="806" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cnyvsOlo4KUs53TC3uyw-34" value="            不参与折扣，计入合计" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnyvsOlo4KUs53TC3uyw-2">
+          <mxGeometry y="832" width="350" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
