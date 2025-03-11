@@ -205,6 +205,114 @@
         <mxCell id="YJ31V06DRZt222PkDAyD-67" style="endArrow=none;rounded=0;" edge="1" parent="1" source="YJ31V06DRZt222PkDAyD-31" target="YJ31V06DRZt222PkDAyD-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-68" value="🚀 快速下单功能清单" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="380" height="936" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-69" value="    📌 2.1 销售主体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="26" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-70" value="        🔘 必填项，新增“东莞坚逸”" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="52" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-71" value="        🔄 切换销售主体逻辑" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="78" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-72" value="            ⚠️ 未选商品时切换 → 清空发票类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="104" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-73" value="            ⚠️ 已选商品时切换 → 提示清空列表，生成新合同，旧合同存草稿" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="130" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-74" value="        📄 合同号规则与现有一致" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="156" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-75" value="    🔍 2.2 搜索添加商品" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="182" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-76" value="        ⚠️ 前置条件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="208" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-77" value="            ❗ 未选销售主体 → 提示“请先选择”" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="234" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-78" value="        🏭 销售主体关联" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="260" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-79" value="            🏭 坚朗建材 → 展示标准价目表" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="286" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-80" value="            🏢 坚逸 → 展示小规模价目表" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="312" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-81" value="    📃 2.3 发票类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="338" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-82" value="        🧾 坚朗建材选项" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="364" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-83" value="            ➖ 不开票" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="390" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-84" value="            💳 数电普票" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="416" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-85" value="            🧾 数电专票" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="442" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-86" value="        🧾 坚逸选项" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="468" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-87" value="            ➖ 不开票" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="494" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-88" value="            💡 数电普票（选择时提示“开具1%”）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="520" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-89" value="        ✅ 选择前提" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="546" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-90" value="            📝 需填写：客户名称、销售主体、商机名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="572" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-91" value="    📑 2.4 合同模板" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="598" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-92" value="        🏢 坚逸订单 → 导出坚逸模板" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="624" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-93" value="    🔧 2.5 商品属性修改" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="650" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-94" value="        ⚙️ 规格属性" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="676" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-95" value="            ✏️ 多规格商品可修改" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="702" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-96" value="        🛠️ 非标定制属性" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="728" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-97" value="            🔄 修改后同步更新：物料代码/单价/数量等" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="754" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-98" value="            💰 折扣展示1折" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="780" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-99" value="        📎 上传LOGO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="806" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-100" value="            ⚠️ 必传附件 → 否则报错" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="832" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-101" value="        🧢 安全帽模具费" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="858" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-102" value="            🔢 数量与属性关联 → 可调增不可调减" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="884" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ31V06DRZt222PkDAyD-103" value="            💸 不参与折扣 → 计入合计" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YJ31V06DRZt222PkDAyD-68">
+          <mxGeometry y="910" width="380" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
