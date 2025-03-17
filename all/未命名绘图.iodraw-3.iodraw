@@ -104,7 +104,7 @@
           <mxGeometry x="1200" y="3118" width="76" height="91" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-15" value="Web Server" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
-          <mxGeometry x="940" y="634.5" width="41.87" height="57.5" as="geometry" />
+          <mxGeometry x="926.32" y="634.5" width="41.87" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-16" value="DNS" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.chassis;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="878.5" y="360" width="137.5" height="177.5" as="geometry" />
@@ -194,7 +194,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.143;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6a7d8f32e03d9370-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="560" as="sourcePoint" />
             <mxPoint x="940" y="510" as="targetPoint" />
