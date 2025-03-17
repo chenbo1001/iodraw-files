@@ -142,7 +142,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-27" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-26">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="71" y="5" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-28" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-26">
           <mxGeometry x="-1" relative="1" as="geometry" />
@@ -154,7 +156,7 @@
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-30" value="t" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjP28U3xtZzaoiMWXGsz-26">
           <mxGeometry x="0.0258" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="132" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
