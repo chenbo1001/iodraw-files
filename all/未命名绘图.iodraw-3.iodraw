@@ -115,15 +115,6 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-179" value="worker&lt;font color=&quot;#00cc66&quot;&gt;进程&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-186">
           <mxGeometry x="109" y="27.009999999999998" width="100" height="35.5" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-188" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="669" y="1400" width="190" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="6a7d8f32e03d9370-11" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=#005073;shape=mxgraph.cisco19.rect;fontSize=14;labelBackgroundColor=none;shadow=0;sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;prIcon=content_recording_streaming_server;fillColor=#FAFAFA;" parent="yjP28U3xtZzaoiMWXGsz-188" vertex="1">
-          <mxGeometry width="76" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-183" value="worker&lt;font color=&quot;#00994d&quot;&gt;进程&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-188">
-          <mxGeometry x="100" y="24.5" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-189" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="949" y="1400" width="189" height="89" as="geometry" />
         </mxCell>
@@ -261,6 +252,15 @@
         </mxCell>
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-37" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#0000ff&quot;&gt;主线程&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ff0000&quot;&gt;IO多路复用，处理客户端文件操作符&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="4Dd4jDHjH4kA8clz2T6a-41">
           <mxGeometry x="80.5" y="14.5" width="179.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-188" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="669" y="1400" width="190" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-11" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=#005073;shape=mxgraph.cisco19.rect;fontSize=14;labelBackgroundColor=none;shadow=0;sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;prIcon=content_recording_streaming_server;fillColor=#FAFAFA;" parent="yjP28U3xtZzaoiMWXGsz-188" vertex="1">
+          <mxGeometry width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-183" value="worker&lt;font color=&quot;#00994d&quot;&gt;进程&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-188">
+          <mxGeometry x="100" y="24.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
