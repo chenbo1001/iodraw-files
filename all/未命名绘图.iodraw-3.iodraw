@@ -168,10 +168,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-151" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Label&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-150">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-151" value="z争抢" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-150">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-32" y="-123" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-153" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="990" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
