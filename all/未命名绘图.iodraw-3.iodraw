@@ -118,7 +118,7 @@
         <mxCell id="6a7d8f32e03d9370-11" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=#005073;shape=mxgraph.cisco19.rect;fontSize=14;labelBackgroundColor=none;shadow=0;sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;prIcon=content_recording_streaming_server;fillColor=#FAFAFA;" parent="yjP28U3xtZzaoiMWXGsz-188" vertex="1">
           <mxGeometry width="76" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-183" value="worker进程" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-188">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-183" value="worker&lt;font color=&quot;#00cc66&quot;&gt;进程&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-188">
           <mxGeometry x="110" y="24.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-189" value="" style="group" vertex="1" connectable="0" parent="1">
