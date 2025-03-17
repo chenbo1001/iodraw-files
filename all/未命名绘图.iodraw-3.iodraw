@@ -60,8 +60,11 @@
             <mxPoint x="976.532174755192" y="696.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-24" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.hq_enterprise;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;direction=north;" parent="1" vertex="1">
-          <mxGeometry x="787" y="1108" width="88" height="92" as="geometry" />
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6a7d8f32e03d9370-24" target="yjP28U3xtZzaoiMWXGsz-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6a7d8f32e03d9370-24" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.hq_enterprise;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="785" y="1110" width="92" height="88" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-25" value="Secure Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.proxy_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="390" y="650" width="76.5" height="90" as="geometry" />
@@ -137,6 +140,9 @@
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-69" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="880" y="1450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-79" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#66B2FF;strokeColor=none;gradientColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="963" y="1114" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
