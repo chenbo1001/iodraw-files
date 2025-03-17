@@ -165,9 +165,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="1280" as="sourcePoint" />
             <mxPoint x="960" y="1280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="630" y="1200" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-151" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-150">
