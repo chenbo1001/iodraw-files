@@ -266,7 +266,7 @@
           <mxGeometry x="100" y="24.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-48" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Nginx工作原理&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;争抢任务处理，利于高并发&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;多个worker提高容错率，有worker失败，会立刻分配其他worker&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;异步非阻塞&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1270" width="180" height="120" as="geometry" />
+          <mxGeometry x="80" y="1140" width="200" height="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
