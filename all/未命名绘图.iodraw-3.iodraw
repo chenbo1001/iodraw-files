@@ -103,12 +103,6 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-173" value="争抢" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=41;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-174" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.video_interop_server;" vertex="1" parent="1">
-          <mxGeometry x="650" y="960" width="180" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-184" value="Master" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1060" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-186" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="311" y="1470" width="188" height="89.51999999999998" as="geometry" />
         </mxCell>
@@ -144,6 +138,15 @@
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-182" value="worker" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-190">
           <mxGeometry x="76" y="24.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-191" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="1050" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-174" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.video_interop_server;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-191">
+          <mxGeometry width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-184" value="Master" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-191">
+          <mxGeometry x="190" y="60" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
