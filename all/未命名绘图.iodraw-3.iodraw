@@ -156,14 +156,17 @@
             <mxPoint x="1206" y="1249.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-140" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.006;exitY=0.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.055;entryY=0.898;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6a7d8f32e03d9370-12" target="6a7d8f32e03d9370-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890" y="1300" as="sourcePoint" />
-            <mxPoint x="940" y="1250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-148" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="1260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-150" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="1280" as="sourcePoint" />
+            <mxPoint x="960" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-151" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-150">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
