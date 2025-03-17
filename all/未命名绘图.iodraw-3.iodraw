@@ -223,9 +223,6 @@
             <mxPoint x="1292" y="1478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Dd4jDHjH4kA8clz2T6a-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="929" y="1710" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-38" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="354" y="1620.5" width="250" height="59" as="geometry" />
         </mxCell>
