@@ -166,7 +166,7 @@
             <mxPoint x="950" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-203" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=13;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-202">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-203" value="请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=23;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-202">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
