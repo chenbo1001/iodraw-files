@@ -244,8 +244,11 @@
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user_services;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1258.5" y="1690.5" width="59" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="4Dd4jDHjH4kA8clz2T6a-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="4Dd4jDHjH4kA8clz2T6a-22" value="主线程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="410" y="1706" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Dd4jDHjH4kA8clz2T6a-23" value="主线程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1716" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
