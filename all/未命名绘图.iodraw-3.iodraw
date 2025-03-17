@@ -231,6 +231,9 @@
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user_services;" vertex="1" parent="1">
           <mxGeometry x="702" y="3390" width="59" height="59" as="geometry" />
         </mxCell>
+        <mxCell id="4Dd4jDHjH4kA8clz2T6a-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="4Dd4jDHjH4kA8clz2T6a-9" target="yjP28U3xtZzaoiMWXGsz-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
