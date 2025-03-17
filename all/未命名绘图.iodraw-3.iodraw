@@ -137,7 +137,7 @@
           <mxGeometry width="76" height="89" as="geometry" />
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-182" value="worker&lt;font color=&quot;#00994d&quot;&gt;进程&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-190">
-          <mxGeometry x="76" y="24.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="100" y="24.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-191" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="732" y="1090" width="290" height="160" as="geometry" />
