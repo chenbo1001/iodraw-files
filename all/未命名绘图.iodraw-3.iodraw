@@ -4,20 +4,6 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-211" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=1;strokeColor=#b85450;fillColor=#f8cecc;rounded=0;fixDash=0;fontStyle=0;horizontal=1;align=center;labelBackgroundColor=default;labelBorderColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1284.5" y="2140" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-212" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;strokeColor=#b85450;fillColor=#f8cecc;rounded=0;fixDash=0;fontStyle=0;horizontal=1;align=center;labelBackgroundColor=default;labelBorderColor=default;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.45,0.5,0,0,0],[0.5,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1244.5" y="2160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Dd4jDHjH4kA8clz2T6a-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="4Dd4jDHjH4kA8clz2T6a-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1180" y="2230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Dd4jDHjH4kA8clz2T6a-9" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;strokeColor=#b85450;fillColor=#f8cecc;rounded=0;fixDash=0;fontStyle=0;horizontal=1;align=center;labelBackgroundColor=default;labelBorderColor=default;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1052" y="2290" width="60" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="6a7d8f32e03d9370-3" value="client" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.desktop;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="940" y="1910" width="89" height="98" as="geometry" />
         </mxCell>
