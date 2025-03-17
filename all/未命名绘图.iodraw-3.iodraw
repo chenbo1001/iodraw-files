@@ -22,6 +22,9 @@
         <mxCell id="6a7d8f32e03d9370-11" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenapp_server;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="1470" width="76" height="89" as="geometry" />
         </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6a7d8f32e03d9370-12" target="yjP28U3xtZzaoiMWXGsz-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6a7d8f32e03d9370-12" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenapp_server;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="343" y="1470" width="76" height="89" as="geometry" />
         </mxCell>
@@ -157,6 +160,9 @@
             <mxPoint x="369" y="1713" as="sourcePoint" />
             <mxPoint x="940" y="1650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-160" value="" style="whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1653.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
