@@ -22,9 +22,6 @@
         <mxCell id="6a7d8f32e03d9370-11" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenapp_server;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="1470" width="76" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6a7d8f32e03d9370-12" target="yjP28U3xtZzaoiMWXGsz-160">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6a7d8f32e03d9370-12" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenapp_server;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="343" y="1470" width="76" height="89" as="geometry" />
         </mxCell>
@@ -155,14 +152,11 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-158" value="争抢" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=41;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-159" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.34;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.411;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6a7d8f32e03d9370-5" target="6a7d8f32e03d9370-12">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-159" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.34;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.411;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369" y="1713" as="sourcePoint" />
-            <mxPoint x="940" y="1650" as="targetPoint" />
+            <mxPoint x="706.8690000000001" y="1729.9960000000003" as="sourcePoint" />
+            <mxPoint x="709.1300000000001" y="1553.945" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-160" value="胜多负少" style="whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="419" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
