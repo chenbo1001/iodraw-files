@@ -197,6 +197,12 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-174" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.video_interop_server;" vertex="1" parent="1">
           <mxGeometry x="750" y="1000" width="180" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-175" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.dynamic_distribution_group;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1486" width="58" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-176" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.role_group;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1450" width="59" height="56" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
