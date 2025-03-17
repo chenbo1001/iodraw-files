@@ -52,6 +52,11 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-158" value="争抢处理" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=41;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-267" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjP28U3xtZzaoiMWXGsz-157">
+          <mxGeometry x="0.0313" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-159" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.34;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.411;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="6a7d8f32e03d9370-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="369" y="1713" as="sourcePoint" />
