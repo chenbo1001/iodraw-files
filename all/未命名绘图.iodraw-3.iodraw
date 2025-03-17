@@ -168,7 +168,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-151" value="z争抢" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSize=19;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-150">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-151" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Label&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-150">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-32" y="-123" as="offset" />
           </mxGeometry>
