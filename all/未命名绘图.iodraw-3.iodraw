@@ -250,6 +250,17 @@
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-23" value="主线程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="420" y="1716" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4Dd4jDHjH4kA8clz2T6a-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="4Dd4jDHjH4kA8clz2T6a-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Dd4jDHjH4kA8clz2T6a-24" value="主线程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1726" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Dd4jDHjH4kA8clz2T6a-25" value="主线程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="761" y="1726" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
