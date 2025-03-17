@@ -156,20 +156,17 @@
             <mxPoint x="1206" y="1249.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-140" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.006;exitY=0.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.055;entryY=0.898;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yjP28U3xtZzaoiMWXGsz-142" target="6a7d8f32e03d9370-24">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-140" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.006;exitY=0.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.055;entryY=0.898;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6a7d8f32e03d9370-12" target="6a7d8f32e03d9370-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="1300" as="sourcePoint" />
             <mxPoint x="940" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-143" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.006;exitY=0.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.055;entryY=0.898;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6a7d8f32e03d9370-12" target="yjP28U3xtZzaoiMWXGsz-142">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="343" y="1475" as="sourcePoint" />
-            <mxPoint x="781" y="1219" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-142" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1260" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-142" value="争抢" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1300" width="100" height="40" as="geometry" />
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-145" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1300" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
