@@ -150,6 +150,11 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-29" value="wewrwerwerwer" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-26">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjP28U3xtZzaoiMWXGsz-26">
+          <mxGeometry x="0.0258" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
