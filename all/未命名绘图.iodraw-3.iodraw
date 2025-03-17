@@ -5,7 +5,7 @@
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-44" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1080" width="1510" height="710" as="geometry" />
+          <mxGeometry x="80" y="1080" width="1530" height="710" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-3" value="client" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.desktop;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="950" y="1649.5" width="89" height="98" as="geometry" />
