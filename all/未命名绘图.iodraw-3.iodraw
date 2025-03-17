@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="4Dd4jDHjH4kA8clz2T6a-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yjP28U3xtZzaoiMWXGsz-211" target="yjP28U3xtZzaoiMWXGsz-212">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="2220" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-211" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=1;strokeColor=#b85450;fillColor=#f8cecc;rounded=0;fixDash=0;fontStyle=0;horizontal=1;align=center;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="490" y="2450" width="80" height="80" as="geometry" />
         </mxCell>
@@ -231,8 +226,10 @@
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user_services;" vertex="1" parent="1">
           <mxGeometry x="702" y="3390" width="59" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="4Dd4jDHjH4kA8clz2T6a-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="4Dd4jDHjH4kA8clz2T6a-9" target="yjP28U3xtZzaoiMWXGsz-212">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4Dd4jDHjH4kA8clz2T6a-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="4Dd4jDHjH4kA8clz2T6a-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="8351.905110677084" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
