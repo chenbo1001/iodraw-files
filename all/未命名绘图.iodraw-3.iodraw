@@ -100,7 +100,7 @@
             <mxPoint x="844.223" y="1223.66664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-173" value="争抢处理" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=41;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-172">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-173" value="&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 31px;&quot;&gt;争抢处理&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=41;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-186" value="" style="group" vertex="1" connectable="0" parent="1">
