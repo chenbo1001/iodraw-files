@@ -92,11 +92,6 @@
             <mxPoint x="946" y="691.5285997834717" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-51" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" target="6a7d8f32e03d9370-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="951.5796089385476" y="660" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6a7d8f32e03d9370-52" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" target="6a7d8f32e03d9370-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="971.6262306610406" y="660" as="sourcePoint" />
@@ -114,7 +109,7 @@
           <mxGeometry x="1200" y="3118" width="76" height="91" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-15" value="Web Server" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
-          <mxGeometry x="830.5" y="540" width="71" height="97.5" as="geometry" />
+          <mxGeometry x="1060" y="580" width="71" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-16" value="DNS" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.chassis;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="212" y="924" width="137.5" height="177.5" as="geometry" />
