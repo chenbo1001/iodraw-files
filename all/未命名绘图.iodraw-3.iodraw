@@ -168,9 +168,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-151" value="z争抢" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSize=27;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-150">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-151" value="争抢" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSize=29;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-150">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-32" y="-123" as="offset" />
+            <mxPoint x="18" y="-163" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-153" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
