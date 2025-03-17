@@ -219,6 +219,12 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-17" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="1">
           <mxGeometry x="930" y="650" width="76.5" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-18" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="1">
+          <mxGeometry x="880" y="630" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-19" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="1">
+          <mxGeometry x="880" y="630" width="76.5" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
