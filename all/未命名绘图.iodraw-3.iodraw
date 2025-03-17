@@ -201,7 +201,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-174" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.video_interop_server;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1150" width="54" height="60" as="geometry" />
+          <mxGeometry x="700" y="1070" width="180" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
