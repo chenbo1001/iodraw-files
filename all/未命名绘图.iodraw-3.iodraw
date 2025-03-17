@@ -158,7 +158,7 @@
           <mxGeometry x="300" y="770" width="89" height="98" as="geometry" />
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-195" value="client" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.desktop;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="770" width="89" height="98" as="geometry" />
+          <mxGeometry x="1220" y="770" width="129" height="98" as="geometry" />
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-202" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.966;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yjP28U3xtZzaoiMWXGsz-194" target="yjP28U3xtZzaoiMWXGsz-174">
           <mxGeometry relative="1" as="geometry">
