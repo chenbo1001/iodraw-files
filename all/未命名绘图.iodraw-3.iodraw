@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="6a7d8f32e03d9370-3" value="client" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.desktop;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="940" y="1720" width="89" height="98" as="geometry" />
+        </mxCell>
         <mxCell id="6a7d8f32e03d9370-4" value="Client" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.desktop;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="660" y="1725.505" width="79" height="86.99" as="geometry" />
         </mxCell>
@@ -193,10 +196,10 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-210" value="请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=34;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-209">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-211" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=1;strokeColor=#b85450;fillColor=#f8cecc;rounded=0;fixDash=0;fontStyle=0;horizontal=1;align=center;labelBackgroundColor=default;labelBorderColor=default;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-211" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=1;strokeColor=#b85450;fillColor=#f8cecc;rounded=0;fixDash=0;fontStyle=0;horizontal=1;align=center;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="220" y="2180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-212" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;strokeColor=#b85450;fillColor=#f8cecc;rounded=0;fixDash=0;fontStyle=0;horizontal=1;align=center;labelBackgroundColor=default;labelBorderColor=default;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-212" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;strokeColor=#b85450;fillColor=#f8cecc;rounded=0;fixDash=0;fontStyle=0;horizontal=1;align=center;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="638" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
