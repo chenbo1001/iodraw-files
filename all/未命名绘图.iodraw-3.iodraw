@@ -138,12 +138,6 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-69" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="880" y="1450" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-104" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;rounded=0;exitX=0.429;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6a7d8f32e03d9370-11">
-          <mxGeometry width="50" height="100" relative="1" as="geometry">
-            <mxPoint x="890" y="1530" as="sourcePoint" />
-            <mxPoint x="940" y="1430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
