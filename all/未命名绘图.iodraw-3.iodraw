@@ -49,7 +49,7 @@
             <mxPoint x="824.9189999999999" y="1223.66664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-158" value="争抢" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=41;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-157">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-158" value="争抢处理" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=41;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-159" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.34;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.411;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="6a7d8f32e03d9370-5">
@@ -145,7 +145,7 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-174" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.video_interop_server;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-191">
           <mxGeometry width="180" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-184" value="Master&lt;font color=&quot;#00ff80&quot;&gt;进程&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-191">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-184" value="Master&lt;font color=&quot;#00994d&quot;&gt;进程&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-191">
           <mxGeometry x="190" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-192" value="client" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.desktop;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
