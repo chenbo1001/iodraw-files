@@ -194,7 +194,7 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-171" value="争抢" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=41;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-170">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-172" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;exitX=0.489;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-172" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;exitX=0.496;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yjP28U3xtZzaoiMWXGsz-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1276" y="1239" as="sourcePoint" />
             <mxPoint x="840" y="1220" as="targetPoint" />
