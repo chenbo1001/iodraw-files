@@ -135,6 +135,15 @@
             <mxPoint x="1125" y="1162.9582806573958" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="yjP28U3xtZzaoiMWXGsz-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="1500" as="sourcePoint" />
+            <mxPoint x="940" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-40" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="921.5" y="1198" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
