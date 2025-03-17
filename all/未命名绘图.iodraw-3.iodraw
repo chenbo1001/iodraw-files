@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="4Dd4jDHjH4kA8clz2T6a-47" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=#00FFFF;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="768.03" width="1440" height="310" as="geometry" />
+        </mxCell>
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-44" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=default;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="80" y="1080" width="1530" height="710" as="geometry" />
         </mxCell>
@@ -261,9 +264,6 @@
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-183" value="worker&lt;font color=&quot;#00994d&quot;&gt;进程&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-188">
           <mxGeometry x="100" y="24.5" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4Dd4jDHjH4kA8clz2T6a-47" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=default;labelBackgroundColor=#00FFFF;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="140" y="790" width="1440" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
