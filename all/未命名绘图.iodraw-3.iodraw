@@ -227,13 +227,13 @@
           <mxGeometry x="920" y="1780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="345" y="1690.5" width="165" height="59" as="geometry" />
+          <mxGeometry x="345" y="1690.5" width="250" height="59" as="geometry" />
         </mxCell>
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user_services;" vertex="1" parent="4Dd4jDHjH4kA8clz2T6a-38">
           <mxGeometry width="59" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="4Dd4jDHjH4kA8clz2T6a-34" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 20px;&quot;&gt;主线程IO多路复用，处理文件操作符&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="4Dd4jDHjH4kA8clz2T6a-38">
-          <mxGeometry x="75" y="19.5" width="90" height="30" as="geometry" />
+        <mxCell id="4Dd4jDHjH4kA8clz2T6a-34" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 20px;&quot;&gt;主线程&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;IO多路复用，处理文件操作符&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="4Dd4jDHjH4kA8clz2T6a-38">
+          <mxGeometry x="75" y="19.5" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-39" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="668.5" y="1690.5" width="171.5" height="59" as="geometry" />
