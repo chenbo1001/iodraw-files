@@ -223,8 +223,8 @@
         <mxCell id="4Dd4jDHjH4kA8clz2T6a-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user_services;" vertex="1" parent="1">
           <mxGeometry x="702" y="3390" width="59" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="4Dd4jDHjH4kA8clz2T6a-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.mail_user;" vertex="1" parent="1">
-          <mxGeometry x="930" y="2180" width="58" height="59" as="geometry" />
+        <mxCell id="4Dd4jDHjH4kA8clz2T6a-9" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;strokeColor=#b85450;fillColor=#f8cecc;rounded=0;fixDash=0;fontStyle=0;horizontal=1;align=center;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="648" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
