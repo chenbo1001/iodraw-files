@@ -60,7 +60,7 @@
             <mxPoint x="976.532174755192" y="696.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-24" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.hq_enterprise;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;direction=east;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-24" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.hq_enterprise;fillColor=#99FFCC;gradientColor=#0066CC;fontSize=14;direction=east;" parent="1" vertex="1">
           <mxGeometry x="750" y="1110" width="127" height="121.48" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-25" value="Secure Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.proxy_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
