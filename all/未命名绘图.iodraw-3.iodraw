@@ -169,6 +169,24 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-203" value="请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=34;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-202">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-205" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.369;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yjP28U3xtZzaoiMWXGsz-193" target="yjP28U3xtZzaoiMWXGsz-174">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="1280" as="sourcePoint" />
+            <mxPoint x="950" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-206" value="请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=34;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-207" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yjP28U3xtZzaoiMWXGsz-192" target="yjP28U3xtZzaoiMWXGsz-174">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="1280" as="sourcePoint" />
+            <mxPoint x="950" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-208" value="请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=34;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
