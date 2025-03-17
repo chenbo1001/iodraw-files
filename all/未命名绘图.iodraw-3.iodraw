@@ -187,6 +187,21 @@
         <mxCell id="yjP28U3xtZzaoiMWXGsz-208" value="请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=34;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-207">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-209" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yjP28U3xtZzaoiMWXGsz-195" target="yjP28U3xtZzaoiMWXGsz-174">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="1280" as="sourcePoint" />
+            <mxPoint x="950" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-210" value="请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=34;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-211" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-212" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="638" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
