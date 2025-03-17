@@ -7,9 +7,6 @@
         <mxCell id="6a7d8f32e03d9370-61" value="Outside Networks" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="499" y="40" width="889" height="594.5" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-60" value="Enterprise cloud" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="20" y="830" width="602" height="374" as="geometry" />
-        </mxCell>
         <mxCell id="6a7d8f32e03d9370-59" value="Citrix XenApp Server Farm&lt;div&gt;with firewalls&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="962" y="1620" width="280" height="1010" as="geometry" />
         </mxCell>
@@ -183,7 +180,7 @@
           <mxGeometry x="930" y="634.5" width="63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-31" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.site;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="492" y="1061" width="107" height="101" as="geometry" />
+          <mxGeometry x="283" y="950" width="107" height="101" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-62" value="Citrix Network Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
