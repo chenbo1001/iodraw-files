@@ -107,7 +107,7 @@
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-269" value="&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 31px;&quot;&gt;争抢处理&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=41;" connectable="0" vertex="1" parent="yjP28U3xtZzaoiMWXGsz-172">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="101" y="-159" as="offset" />
+            <mxPoint x="-179" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yjP28U3xtZzaoiMWXGsz-186" value="" style="group" vertex="1" connectable="0" parent="1">
