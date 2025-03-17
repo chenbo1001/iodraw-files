@@ -5,7 +5,7 @@
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="6a7d8f32e03d9370-61" value="Outside Networks" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="611" y="55.5" width="637" height="360" as="geometry" />
+          <mxGeometry x="611" y="55.5" width="637" height="594.5" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-60" value="Enterprise cloud" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="20" y="830" width="602" height="374" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="400" y="620" width="41.87" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-16" value="DNS" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.chassis;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="876.5" y="442.5" width="137.5" height="177.5" as="geometry" />
+          <mxGeometry x="860.75" y="360" width="137.5" height="177.5" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-44" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="6a7d8f32e03d9370-17" edge="1">
           <mxGeometry relative="1" as="geometry">
