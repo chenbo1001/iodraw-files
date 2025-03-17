@@ -156,12 +156,17 @@
             <mxPoint x="1206" y="1249.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-140" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-140" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.006;exitY=0.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.055;entryY=0.898;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6a7d8f32e03d9370-12" target="6a7d8f32e03d9370-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="1300" as="sourcePoint" />
             <mxPoint x="940" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="%name% Text" placeholders="1" name="Variable" id="yjP28U3xtZzaoiMWXGsz-141">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="870" y="1270" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
