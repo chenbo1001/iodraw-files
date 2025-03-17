@@ -161,8 +161,8 @@
             <mxPoint x="940" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP28U3xtZzaoiMWXGsz-160" value="" style="whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="321" y="1653.5" width="120" height="60" as="geometry" />
+        <mxCell id="yjP28U3xtZzaoiMWXGsz-160" value="胜多负少" style="whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="419" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
